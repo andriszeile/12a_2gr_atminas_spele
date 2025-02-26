@@ -69,7 +69,9 @@ function veiktGajienu(laukums)
     };
     fetch('pievienot-rezultatu', {
       method: 'POST',
-      headers: {'Content-Type': 'application-json',},
+      headers: {
+        'Content-Type': 'application-json',
+      },
       body: JSON.stringify(rezultats)
     }).then(response => {
       if (response.ok) {
