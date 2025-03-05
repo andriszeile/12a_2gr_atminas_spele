@@ -1,15 +1,8 @@
 [
     {
-        "id": 12,
+        "id": 15,
         "vards": "Andris",
         "klikski": 12,
-        "laiks": 6,
-        "datums": "2025-03-05"
-    },
-    {
-        "id": 13,
-        "vards": "Andris",
-        "klikski": 14,
         "laiks": 7,
         "datums": "2025-03-05"
     },
@@ -29,6 +22,13 @@
     },
     {
         "id": 4,
+        "vards": "Anonīmais",
+        "klikski": 100,
+        "laiks": 100,
+        "datums": "2020-01-01"
+    },
+    {
+        "id": 5,
         "vards": "Anonīmais",
         "klikski": 100,
         "laiks": 100,
